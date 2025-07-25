@@ -1,1 +1,10 @@
+
+--magic box
+google.com, pub-9519709669762677, DIRECT, f08c47fec0942fa0
+
+
+
+
+-- jumpbox
+
 google.com, pub-9519709669762677, DIRECT, f08c47fec0942fa0
